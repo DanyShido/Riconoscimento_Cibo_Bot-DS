@@ -1,0 +1,11 @@
+0 Pane
+1 Assaggini
+2 Dolci
+3 Uova
+4 CiboFritto
+5 Carne
+6 Pasta
+7 Riso
+8 CiboPesce
+9 Zuppa
+10 Frutta
